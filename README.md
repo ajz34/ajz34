@@ -19,7 +19,7 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
 - Blogger (abnormally using Sphinx as main engine):
   - https://ajz34.readthedocs.io/ ajz34's blog (in Chinese)
   - https://pycrawfordprogproj.readthedocs.io/ Python programming in quantum chemistry (will maintain later >.<)
-- Physical chemistry graduate stutent currently. Though no primary contributed articles up to now, some of my work is available at
+- Physical chemistry graduate stutent currently. Though no primary contributed articles up to now, some of my work are available at
   - [ajz34/Py_xDH](https://github.com/ajz34/Py_xDH) Python approach to XYG3 type of functional analytical hessian
   - https://py-xdh.readthedocs.io/ Document of the repo above (in Chinese)
   - [ajz34/Kennard-Stone-Efficient](https://github.com/ajz34/Kennard-Stone-Efficient) Efficient data KS-sampling algorithm in hybrid Python/C
@@ -32,3 +32,4 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
 - Addicted to video games, currently playing
   - PS5: NieR: Replicant
   - Switch: New Super Mario 3D World + Bowser’s Fury
+  - Platinum achievement: Terraira (Steam), Sekiro (Steam), Persona 5 Royal (PS5)
