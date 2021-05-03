@@ -1,4 +1,4 @@
-### You Just Found an Alive ajz34 👋
+### You Just Found an Alive ajz34 (°∀°)ﾉ 👋
 
 <!--
 **ajz34/ajz34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
