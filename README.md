@@ -33,4 +33,7 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
   - PS5: NieR: Replicant/Automata
   - Switch: Octopath Traveler
   - Steam: Persona 4 Gold
-  - Platinum achievement: Terraira (Steam), Sekiro (Steam), Persona 5 Royal (PS5)
+- Platinum achievement obtained:
+  - Terraira (Steam)
+  - Sekiro: Shadow Dies Twice (Steam)
+  - Persona 5 Royal (PS5)
