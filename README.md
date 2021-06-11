@@ -30,7 +30,7 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
   - Videos: https://space.bilibili.com/1876964
   - Not sure whether will be broadcasting video games in the future... (｀・ω・´)
 - Addicted to video games, currently playing
-  - PS5: Ghost of Tsushima
+  - PS5: The Last of Us (Part II) / Ghost of Tsushima
   - Switch: Octopath Traveler
   - Steam: Persona 4 Gold
 - Platinum achievement obtained:
