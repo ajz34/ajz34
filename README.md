@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajz34)](https://github.com/anuraghazra/github-readme-stats)
+
 This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could be:
 - Blogger (abnormally using Sphinx as main engine):
   - https://ajz34.readthedocs.io/ ajz34's blog (in Chinese)
@@ -25,10 +27,11 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
   - [ajz34/Kennard-Stone-Efficient](https://github.com/ajz34/Kennard-Stone-Efficient) Efficient data KS-sampling algorithm in hybrid Python/C
 - Knows little about Artificial Intelligence
    - Competition attended: [ajz34/alchemy-dgnn](https://github.com/ajz34/alchemy-dgnn)
-- (Former) game live broadcaster and uploader
+- Game live broadcaster and uploader
   - Broadcast: https://live.bilibili.com/9804973
   - Videos: https://space.bilibili.com/1876964
-  - Not sure whether will be broadcasting video games in the future... (｀・ω・´)
+  - Live streaming plan: Fri-Sun 20:00 UTC+8
+  - Plan for 2021/7/16: The Legend of Zelda: Skyward Sword HD
 - Addicted to video games, currently playing
   - PS5: The Last of Us (Part II) / Ghost of Tsushima
   - Switch: Octopath Traveler
