@@ -30,13 +30,7 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
 - Game live broadcaster and uploader
   - Broadcast: https://live.bilibili.com/9804973
   - Videos: https://space.bilibili.com/1876964
-  - Live streaming plan: Fri-Sun 20:00 UTC+8 Detroit: Become Human
-  - Plan for 2021/7/16: The Legend of Zelda: Skyward Sword HD
-- Addicted to video games, currently playing
-  - PS5: The Last of Us (Part II)
-  - Switch: Octopath Traveler
-  - Steam: Persona 4 Gold
+  - Live streaming plan: Fri-Sun 20:00 UTC+8 *Detroit: Become Human* or *The Last of Us: Part II*
+  - Plan for 2021/7/16: *The Legend of Zelda: Skyward Sword HD*
 - Platinum achievement obtained:
-  - Terraira (Steam)
-  - Sekiro: Shadow Dies Twice (Steam)
-  - Persona 5 Royal (PS5)
+  - *Terraira*, *Sekiro: Shadow Dies Twice*, *Persona 5 Royal*
