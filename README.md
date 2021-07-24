@@ -28,10 +28,9 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
 - Knows little about Artificial Intelligence
    - Competition attended: [ajz34/alchemy-dgnn](https://github.com/ajz34/alchemy-dgnn)
 - Game live broadcaster and uploader
-  - Live broadcast: https://live.bilibili.com/9804973
+  - Live broadcast (哔哩哔哩): https://live.bilibili.com/9804973
   - Videos: https://space.bilibili.com/1876964
-  - Live plan: Fri-Sun 20:00 UTC+8 
-    - Pick from *Hyrule Warriors: Age of Calamity*, *Detroit: Become Human* or *The Last of Us: Part II*
-    - Plan for 2021/7/16: *The Legend of Zelda: Skyward Sword HD*
+  - Live plan: Generally everday during summer vacation, 20:00 UTC+8 
+    - *The Legend of Zelda: Skyward Sword HD* (塞尔达传说：御天之剑)
 - Platinum achievement obtained:
   - *Terraira*, *Sekiro: Shadow Dies Twice*, *Persona 5 Royal*
