@@ -27,12 +27,7 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
   - [ajz34/Kennard-Stone-Efficient](https://github.com/ajz34/Kennard-Stone-Efficient) Efficient data KS-sampling algorithm in hybrid Python/C
 - Knows little about Artificial Intelligence
    - Competition attended: [ajz34/alchemy-dgnn](https://github.com/ajz34/alchemy-dgnn)
-- Game live broadcaster and uploader
-  - Live broadcast (哔哩哔哩): https://live.bilibili.com/9804973
+- Halfway game live broadcaster and uploader
   - Videos: https://space.bilibili.com/1876964
-  - Live plan: Fri Sat Sun, 20:00-22:00 UTC+8 
-    - Sept. 10th or later: *WarioWare: Get It Together!* (瓦力欧制造：分享同乐)
-    - Nov. 11th or later: *Shin Megami Tensei V* (真·女神转生V)
-    - Otherwise: *The Legend of Zelda: Breath of the Wild* (塞尔达传说：旷野之息)
 - Platinum achievement obtained:
   - *Terraira*, *Sekiro: Shadow Dies Twice*, *Persona 5 Royal*
