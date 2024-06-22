@@ -30,4 +30,4 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
 - Halfway game live broadcaster and uploader
   - Videos: https://space.bilibili.com/1876964
 - Platinum achievement obtained:
-  - *Terraira*, *Sekiro: Shadow Dies Twice*, *Persona 5 Royal*
+  - *Terraira*, *Sekiro: Shadow Dies Twice*, *Persona 5 Royal*, *Octopath Traveler II*
