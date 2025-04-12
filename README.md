@@ -25,7 +25,7 @@ This is ajz34 (Zhenyu Zhu, 祝震予). Definition to this alive creature could b
   - [ajz34/Py_xDH](https://github.com/ajz34/Py_xDH) Python approach to XYG3 type of functional analytical hessian
   - https://py-xdh.readthedocs.io/ Document of the repo above (in Chinese)
   - [ajz34/Kennard-Stone-Efficient](https://github.com/ajz34/Kennard-Stone-Efficient) Efficient data KS-sampling algorithm in hybrid Python/C
-  - [RESTGroup/ajz34](https://github.com/RESTGroup/rstsr) An n-dimensional rust tensor toolkit
+  - [RESTGroup/rstsr](https://github.com/RESTGroup/rstsr) An n-dimensional rust tensor toolkit
 - Knows little about Artificial Intelligence
    - Competition attended: [ajz34/alchemy-dgnn](https://github.com/ajz34/alchemy-dgnn)
 - Halfway game live broadcaster and uploader
